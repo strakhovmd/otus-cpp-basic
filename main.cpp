@@ -6,6 +6,6 @@ string branchName = "master";
 
 int main() {
     cout << "Hello, " << branchName << "!" << endl;
-    cout << "Test" << endl;
+    cout << "Test 2" << endl;
     return 0;
 }
